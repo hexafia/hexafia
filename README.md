@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hexafia a 1st year IT student
+- 👋 Hi, I’m *@hexafia* a 1st year IT student
 - 👀 I’m interested in Python, C++, HTML, Java, Javascript
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
